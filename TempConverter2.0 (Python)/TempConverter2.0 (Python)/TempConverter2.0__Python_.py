@@ -34,6 +34,7 @@ def menu():
         sys.exit
 
     else:
+        print()
         print("You must select an option")
         print("Please try again")
         print()
